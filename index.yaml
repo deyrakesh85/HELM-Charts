@@ -1,12 +1,21 @@
 apiVersion: v1
 entries:
+  apache:
+  - apiVersion: v1
+    created: 2018-05-15T17:18:02.2938996+05:30
+    description: A Helm chart for Apache
+    digest: 13e287ff8e2c010261431355a497a4d7279edd13cac9fbd4eb472931889df4ad
+    name: apache
+    urls:
+    - apache-0.1.0.tgz
+    version: 0.1.0
   test-chart-nginx:
   - apiVersion: v1
-    created: 2018-04-20T15:14:37.9783302+05:30
+    created: 2018-05-15T17:18:02.2949032+05:30
     description: A Helm chart for Kubernetes
     digest: 28824c5a87b250abdd6018d0da665fe7a778fc4b35836e849c85f85be04a3073
     name: test-chart-nginx
     urls:
     - test-chart-nginx-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-20T15:14:37.9763666+05:30
+generated: 2018-05-15T17:18:02.2908912+05:30
